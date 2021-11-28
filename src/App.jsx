@@ -6,6 +6,8 @@ import logo from './nwn.png'
 
 
 const App = () => {
+
+
   return (
     <>
       <Menu style={{ borderRadius: 0, background: '' }}>
@@ -31,3 +33,6 @@ const App = () => {
 }
 
 export default App
+
+
+//  <u1 data-cy="news-list">{newsList}</u1>

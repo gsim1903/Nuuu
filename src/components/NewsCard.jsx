@@ -1,7 +1,23 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
+import axios from 'axios'
 import { Header, Card } from 'semantic-ui-react'
 
 const NewsCard = (props) => {
+
+  const [news, setNews] = useState([])
+  const fetchNews = async () => {
+    const response = await axios.get('http://reqres.in/api/users?per_page=5')
+    setNews(response.data.data)
+  }
+
+  useEffect(() => { 
+    fetchNews()
+  },[]);
+  
+  const newsList = news.map((news) => {
+    return <li key={news.id}>{`${news.name} ${news.title}`} </li>
+  })
+  
   return (
     <Card
       image='https://editorial.fxstreet.com/images/Markets/Currencies/Digital%20Currencies/Bitcoin/bitcoins-52602600_Large.jpg'
@@ -15,3 +31,7 @@ const NewsCard = (props) => {
 }
 
 export default NewsCard
+
+
+
+

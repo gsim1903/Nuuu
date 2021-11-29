@@ -15,7 +15,7 @@ const NewsIndex = () => {
 
   const getHeadlines = async () => {
     const response = await axios.get(
-      `https://newsapi.org/v2/top-headlines?country=us&pageSize=5&apiKey=${process.env.REACT_APP_NEWSKEY}` 
+      `https://newsapi.org/v2/top-headlines?country=us&pageSize=5&apiKey=` 
       
       );
     setHeadlines(response.data.articles);

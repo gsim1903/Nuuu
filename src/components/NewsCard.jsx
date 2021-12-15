@@ -7,11 +7,11 @@ const NewsCard = ({headline}) => {
     <Card
       //data-cy={`headline-${headline.id}`}
       //key={headline.index}
-      image={headline.urlToImage}
       header={headline.title}
-      meta={`By: ${headline.author} at ${headline.name}`}
+      image={headline.urlToImage}
+      meta={`By: ${headline.author} at ${headline.source.name}`}
       description={headline.description}
-      extra={<Header as="h6">{`Published at ${headline.publishedAt}`}</Header>}
+      extra={<Header as="h7">{`Published at ${headline.publishedAt}`}</Header>}
       href={headline.url}
 
     ></Card>

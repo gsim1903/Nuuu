@@ -1,25 +1,14 @@
-import React, { useState, useEffect } from 'react'
+import React from 'react'
 import NewsCard from './NewsCard'
-import NewsService from '../modules/NewsService'
-import { Grid } from 'semantic-ui-react'
+import { Grid} from 'semantic-ui-react'
 //import axios from 'axios'
 
-const NewsIndex = () => {
-
-  const [headlines, setHeadlines] = useState([]);
-
-  useEffect(() => {
-    NewsService.index().then(data => {
-      setHeadlines(data)
-    });
-  }, []);
-
+const NewsIndex = ({headlines}) => {
   const headlinesDisplay = headlines.map((headline) => { 
     return <NewsCard key={headline.index} headline={headline} />;
    })
 
    return <Grid data-cy="news-collection">{headlinesDisplay}</Grid>
-   debugger 
 
 }
 
@@ -27,7 +16,7 @@ export default NewsIndex
 
 
 
-  // const [Searchlines, setSearchlines] = useState([]);
+  // const [Searchlines, setSearchlines] = useState([]);  
 
   // useEffect(() => {
   //   getSearchlines();

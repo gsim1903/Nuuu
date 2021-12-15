@@ -14,7 +14,14 @@ describe('visting the application a user..', () => {
 
 describe('articles being current', () => {
     beforeEach(() => { 
-      cy.visit('/')})
+      cy.intercept('GET', "http://newsapi.org/v2/top-headlines", {
+      fixture: "topHeadlines.json",}).as('getHeadlines')
+      cy.visit('/')
+    })
+
+    it('is expected to call a NewAPIS'), () => {
+      cy.wait('@getHeadlines').its('response.statusCode').should('eq', 200)
+    }
 
     it.only('is expected to see 5 news items', () => {
       cy.get('[data-cy=articles]').children().should('have.length',5)

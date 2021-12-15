@@ -21,11 +21,8 @@ const App = () => {
         </Menu.Menu>
       </Menu>
       <Container>
-
-        <Header as='h2' >
-          News Wire Network
-          </Header>
-        <p>Todays top stories from around the world</p>
+        <Header as='h2' >News Wire Network</Header>
+        <Header as ="p" >Todays top stories from around the world</Header>
         <NewsIndex />
       </Container>
     </>

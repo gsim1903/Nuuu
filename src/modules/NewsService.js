@@ -7,8 +7,12 @@ const headlineEndpoint = "top-headlines"
 const searchEndpoint = "everything"
 const NewsService = {
   async index() {
-    const headlines = await axios.get("https://newsapi.org/v2/top-headlines?apiKey=9d36d2479caf4e08baa7abf4f05ed7c2&country=se")
-      
+    const headlines = await axios.get(apiURL + headlineEndpoint, {
+      params: {
+        country: 'gb',
+        apiKey: process.env.REACT_APP_NEWSKEY
+      },
+    })
   
     return headlines.data.articles 
   },
@@ -22,9 +26,3 @@ export default NewsService
 
 
 
-// apiURL + headlineEndpoint, {
-  //   params: {
-  //     country: 'gb',
-  //     apiKey: "9d36d2479caf4e08baa7abf4f05ed7c2"
-  //   },
-  // })

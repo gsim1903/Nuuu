@@ -1,0 +1,188 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samantha Lock, Martin Belam, Léonie Chao-Fong, Lucy Campbell, Aubrey Allegretti, Libby Brooks, Helena Smith, Jamie Grierson, Peter Beaumont, Ian Sample, Vincent Ni, Andrew Sparrow, Laura Snapes, Justin McCurry, Rob Davies, Zoe Williams, Sarah Martin, Paul MacInnes",
+            "title": "Coronavirus live: US Covid deaths reach new high; Omicron poses threat – as it happened - The Guardian",
+            "description": "Moderna chief cautions against assumptions Omicron is milder than Delta; Pfizer says pill cut hospitalisation and deaths in high-risk patients",
+            "url": "https://www.theguardian.com/world/live/2021/dec/14/covid-news-live-us-coronavirus-cases-surpass-50m-china-reports-first-omicron-case",
+            "urlToImage": "https://i.guim.co.uk/img/media/2111edca873509db3f5de8bc026921142dcffc4a/0_174_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=20a205eadbac44a51c5cb41e184a03c0",
+            "publishedAt": "2021-12-15T02:15:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Luke Augustus",
+            "title": "Leeds: Marcelo Bielsa blasts 7-0 defeat at Manchester City as their 'WORST performance' - Daily Mail",
+            "description": "Marcelo Bielsa didn't hold back after watching his Leeds United side mauled by Manchester City lambasting it as their 'worst' display in his tenure at the club.",
+            "url": "https://www.dailymail.co.uk/sport/football/article-10310847/Leeds-Marcelo-Bielsa-blasts-7-0-defeat-Manchester-City-WORST-performance.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2021/12/15/00/51802191-0-image-a-23_1639529147892.jpg",
+            "publishedAt": "2021-12-15T00:49:00Z",
+            "content": "Marcelo Bielsa didn't hold back after watching his Leeds United side mauled by Manchester City lambasting it as their 'worst' display in his tenure at the club.\r\nLeeds were thumped 7-0 by rampant Pre… [+1440 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Samuel Lovett",
+            "title": "Testing disruption leaves UK ‘flying blind’ over scale of omicron wave - The Independent",
+            "description": "‘Omicron is a serious ‘sprinter’ – I doubt we will be able to keep up from now on in terms of having precise estimates of the prevalence in the community’",
+            "url": "https://www.independent.co.uk/news/health/covid-omicron-variant-vaccine-cases-latest-b1976117.html",
+            "urlToImage": "https://static.independent.co.uk/2021/12/14/19/newFile.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-12-15T00:09:01Z",
+            "content": "A lack of Covid tests has left the government flying blind over the scale of the omicron wave as it tries to calculate whether further restrictions will be needed, The Independent has been told.\r\nSen… [+5117 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "MPs back Covid passes in England despite huge Tory rebellion - BBC News",
+            "description": "Nearly 100 Tory MPs defy Boris Johnson - but the measures become law thanks to Labour support.",
+            "url": "https://www.bbc.co.uk/news/uk-politics-59659851",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/841E/production/_122222833_gettyimages-1236808240.jpg",
+            "publishedAt": "2021-12-15T00:08:30Z",
+            "content": "Media caption, Watch: The moment MPs approved the introduction of a Covid pass in England\r\nBoris Johnson has won backing for Covid passes in England, despite the biggest revolt by Tory MPs since he b… [+4106 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Manchester Evening News"
+            },
+            "author": "James Findlater, Steven Railston, Stephen Killen",
+            "title": "Manchester United transfer news RECAP Man Utd vs Brentford and Brighton covid latest news - Manchester Evening News",
+            "description": "The latest Man Utd transfer gossip, team news and injury updates after the Reds' game versus Brentford on Tuesday was postponed.",
+            "url": "https://www.manchestereveningnews.co.uk/sport/football/man-united-transfer-news-recap-22452212",
+            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article22438913.ece/ALTERNATES/s1200/0_ipiccy_image-2021-12-12T141443821.jpg",
+            "publishedAt": "2021-12-14T23:37:00Z",
+            "content": "Champions League last-16 redraw in full\r\nThe corrected draw for the last-16 of the UEFA Champions League has been made this afternoon, with Manchester City, Manchester United, Chelsea and Liverpool a… [+792 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Liverpool Echo"
+            },
+            "author": "Abigail Nicholson, Pippa Crerar",
+            "title": "First image of 'raucous' Tory Christmas party thrown in lockdown - Liverpool Echo",
+            "description": "The image shows 24 people crowded together in a room in the Tories' Westminster HQ",
+            "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/first-image-raucous-tory-christmas-22464612",
+            "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article22464606.ece/ALTERNATES/s1200/0_PARTY.jpg",
+            "publishedAt": "2021-12-14T23:00:28Z",
+            "content": "A picture of 24 people crowded together at a raucous Christmas party thrown by Tory aides during coronavirus restrictions has emerged.\r\nSome of the group are shown wearing paper hats while one is spo… [+3336 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": "Sky",
+            "title": "COVID-19: West End shows including The Lion King, Life of Pi and Hex cancelled after coronavirus outbreaks - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/covid-19-west-end-shows-including-the-lion-king-life-of-pi-and-hex-cancelled-after-coronavirus-outbreaks-12495768",
+            "urlToImage": "https://e3.365dm.com/21/12/1600x900/skynews-hex-west-end_5615153.jpg?20211214183932",
+            "publishedAt": "2021-12-14T22:56:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "John Loeffler",
+            "title": "We just touched the Sun for the first time in human history - TechRadar",
+            "description": "NASA's Parker Solar Probe just flew through the Sun's corona",
+            "url": "https://www.techradar.com/news/we-just-touched-the-sun-for-the-first-time-in-human-history",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MJtm3HEz3HdTP4BSyaDjGJ-1200-80.jpg",
+            "publishedAt": "2021-12-14T22:53:16Z",
+            "content": "A spacecraft just touched the Sun for the first time in human history.\r\nThe Parker Solar Probe flew through the Sun's atmosphere, known as its corona, collecting particles and measuring the Sun's mag… [+525 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Telegraph.co.uk"
+            },
+            "author": null,
+            "title": "Tory Covid rebels deal hammer blow to Boris Johnson's authority - Telegraph.co.uk",
+            "description": "Leadership challenge has 'got to be on the cards' after PM suffers worst revolt of premiership as backbenchers ignore plea on virus curbs",
+            "url": "https://www.telegraph.co.uk/politics/2021/12/14/tory-covid-rebels-deal-hammer-blow-boris-johnsons-authority/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/politics/2021/12/14/TELEMMGLPICT000280710154_trans_NvBQzQNjv4Bqj4SQ2gDagIfn6dk9h7TP2C2SoDMjQLU3yMS6NDIuTSc.jpeg?impolicy=logo-overlay",
+            "publishedAt": "2021-12-14T22:32:00Z",
+            "content": "The Commons revolt also heaps further pressure on the result of the North Shropshire by-election on Thursday.\r\nThe safe Tory seat was won by 23,000 votes by the Tories two years ago but is at risk of… [+2542 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Chris Brooke, Paul Bracchi",
+            "title": "Star Hobson: Jurors told anti-gay complaints made against Savannah Brockhill were 'malicious' - Daily Mail",
+            "description": "SPECIAL REPORT: Ordinary members of the public will struggle to understand why Frankie Smith and Savannah Brockhill, pictured, were given the benefit of the doubt time and time again.",
+            "url": "https://www.dailymail.co.uk/news/article-10310213/Star-Hobson-Jurors-told-anti-gay-complaints-against-Savannah-Brockhill-malicious.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2021/12/14/21/51794443-0-image-a-2_1639517974641.jpg",
+            "publishedAt": "2021-12-14T22:25:30Z",
+            "content": "Star Hobson had cherubic blue eyes and a face to melt even the hardest of hearts.\r\nStar Hobson: The five spurned warnings \r\nMAY 2019: Star Hobson is born\r\nNOVEMBER: Her mother, Frankie Smith, splits … [+14077 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Gustaf Kilander",
+            "title": "Kentucky tornado - latest: Death toll at 88 with 103 missing as Mayfield candle factory faces state probe - The Independent",
+            "description": "The tornadoes were part of a powerful storm system that tore across Arkansas, Illinois, Kentucky, Mississippi, Missouri and Tennessee late on Friday and the early hours of Saturday",
+            "url": "https://www.independent.co.uk/climate-change/news/kentucky-tornado-map-path-victims-latest-b1975506.html",
+            "urlToImage": "https://static.independent.co.uk/2021/12/14/12/PRI215076012.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-12-14T22:11:20Z",
+            "content": "President Biden declares major federal disaster in Kentucky\r\nUS President Joe Biden declared a major federal disaster in tornadoes-hit Kentucky on Friday, promising additional federal aid to people i… [+681 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Sun"
+            },
+            "author": "Ken Lawrence",
+            "title": "Wayne Rooney lined up for sensational Everton return as BOSS if Goodison chiefs axe under-fire Rafa Benitez... - The Sun",
+            "description": "",
+            "url": "https://www.thesun.co.uk/sport/football/17041554/wayne-rooney-everton-manager-rafa-benitez/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2021/12/SUN-EXCLUSIVE-Rooney.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2021-12-14T22:05:00Z",
+            "content": "WAYNE ROONEY could make a sensational return to Everton if Rafa Benitez is forced out.\r\nEverton majority owner Farhad Moshiri is desperate for the Spaniard to succeed after becoming his fifth manager… [+2204 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Nils Pratley",
+            "title": "Government should use its new powers to block a BT takeover bid - The Guardian",
+            "description": "A Patrick Drahi buyout would be an unhelpful distraction for a company in midst of fibre rollout",
+            "url": "https://amp.theguardian.com/business/nils-pratley-on-finance/2021/dec/14/a-patrick-drahi-takeover-of-bt-would-be-an-unhelpful-distraction",
+            "urlToImage": null,
+            "publishedAt": "2021-12-14T20:51:00Z",
+            "content": "Nils Pratley on financeA Patrick Drahi buyout would be an unhelpful distraction for a company in midst of fibre rollout\r\nTue 14 Dec 2021 19.15 GMT\r\nThe government says it is monitoring the situation … [+5068 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Simmie",
+            "title": "Covid vaccine: 15-minute wait after Pfizer and Moderna jabs set to be scrapped as rollout accelerated - The Independent",
+            "description": "‘The 15-minute wait ... will cause more harm than it can avert because it will significantly reduce the number of people who can be vaccinated over a short period of time,’ say chief medical officers",
+            "url": "https://www.independent.co.uk/news/science/covid-vaccine-15-minutes-pfizer-moderna-b1975941.html",
+            "urlToImage": "https://static.independent.co.uk/2021/12/14/16/newFile-3.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-12-14T20:40:58Z",
+            "content": "Those who receive a dose of the Pfizer or Moderna jab are no longer set to wait 15 minutes after being vaccinated, as government officials seek to accelerate the national rollout.\r\nThe UK's four chie… [+1743 chars]"
+        }
+    ]
+  }

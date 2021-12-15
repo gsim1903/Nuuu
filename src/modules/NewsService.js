@@ -7,7 +7,7 @@ const NewsService = {
   async index() {
     const headlines = await axios.get(apiURL + headlineEndpoint, {
       params: {
-        country: 'id',
+        country: 'in',
         apiKey: process.env.REACT_APP_NEWSKEY
       },
     })
@@ -16,6 +16,14 @@ const NewsService = {
   },
 
   async search(query) {
+    const response = await axios.get(apiURL + searchEndpoint, { 
+      params: {
+      q: query,
+      apiKey: process.env.REACT_APP_NEWSKEY
+    }
+  })
+
+  return response.data.articles
 
   } 
 }

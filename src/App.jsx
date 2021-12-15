@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react'
+import React, { useState, useEffect } from 'react'
 import NewsSearch from "./components/NewsSearch"
 import { Container, Menu, Header, Image } from 'semantic-ui-react'
 import NewsIndex from './components/NewsIndex'
@@ -8,15 +8,19 @@ import logo from './nwn.png'
 
 const App = () => {
 
-
   const [headlines, setHeadlines] = useState([]);
-  const [queryTerm, setQueryTerm] = useState ()
 
-   useEffect(() => {
-       NewsService.index().then(data => {
-        setHeadlines(data)
-      });
-   }, []);
+  useEffect(() => {
+    NewsService.index().then(data => {
+      setHeadlines(data)
+    });
+  }, []);
+
+  const performSearch = (query) => {
+    NewsService.search(query).then(data => {
+      setHeadlines(data)
+    })
+  }
 
 
   return (
@@ -27,14 +31,14 @@ const App = () => {
         </Menu.Item>
         <Menu.Menu position='right'>
           <Menu.Item>
-            <NewsSearch setQueryTerm={setQueryTerm} />
+            <NewsSearch performSearch={performSearch} />
           </Menu.Item>
         </Menu.Menu>
       </Menu>
       <Container>
         <Header as='h2' >News Wire Network</Header>
-        <Header as ="p" >Todays top stories from around the world</Header>
-        <NewsIndex headlines={headlines}/>
+        <Header as="p" >Todays top stories from around the world</Header>
+        <NewsIndex headlines={headlines} />
       </Container>
     </>
   )
